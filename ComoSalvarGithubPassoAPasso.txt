@@ -1,0 +1,8 @@
+1 - Abrir o smash do git na pasta do projeto
+Comandos no smash:
+2 - git init
+3 - git add.
+4 - git commit -m "Mensagem explicativa"
+5 - git branch -M main
+6 - git remote add origin git@github.com: seuusuario/seurepositorio.git
+7 - git push -u origin main
